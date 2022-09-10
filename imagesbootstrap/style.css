@@ -1,0 +1,7 @@
+.dots{
+    border-style: dotted none none none;
+    border-width: 0.6rem;
+    border-color: grey;
+    width: 30%;
+    margin: auto;
+}
